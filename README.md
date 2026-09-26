@@ -28,7 +28,8 @@ Git
 
 ## Featured Projects
 
-- Academic Tinder
+- Crop Recommendation System
+- JobFlow- distributed system
 - PABSON Cricket League
 - KTM Wears
 - Authentication System
